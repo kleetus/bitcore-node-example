@@ -4,9 +4,8 @@
   "port": 3001,
   "services": [
     "bitcoind",
-    "db",
-    "address",
     "web",
+    "db",
     "sidechain"
   ]
 }
