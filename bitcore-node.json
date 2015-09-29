@@ -1,11 +1,12 @@
 {
-  "datadir": "./data",
+  "datadir": "/Users/chrisk/.bitcoin",
   "network": "livenet",
   "port": 3001,
   "services": [
     "bitcoind",
     "db",
     "address",
-    "web"
+    "web",
+    "sidechain"
   ]
 }
